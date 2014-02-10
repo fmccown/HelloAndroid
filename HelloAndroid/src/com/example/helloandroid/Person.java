@@ -6,4 +6,6 @@ public class Person {
 	int age;
 	int id;
 	String name;
+	
+	int cool;
 }
