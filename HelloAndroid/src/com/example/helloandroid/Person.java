@@ -7,5 +7,6 @@ public class Person {
 	int id;
 	
 	String secret;
+	String name;
 
 }
