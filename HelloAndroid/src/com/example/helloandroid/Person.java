@@ -5,8 +5,5 @@ public class Person {
 	
 	int age;
 	int id;
-	String firstName;
-	String lastName;
-	
-	int cool;
+
 }
